@@ -1,4 +1,4 @@
-
+Changing the readme file
 # Lab Instructions: Setting Up a GitHub Repository
 
 In this lab, we will walk you through the process of setting up a GitHub repository, collaborating with a classmate, and using GitHub Desktop. Please make sure to follow these steps carefully.
